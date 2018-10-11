@@ -17,9 +17,9 @@ This resource is an aggressive fork of https://github.com/linkyard/concourse-hel
 
 | Component | Version |
 | --- | --- |
-| `helm` | 2.9.1 |
-| `kubectl` | 1.9.6 |
-| Google Cloud SDK | 201.0.0 |
+| `helm` | 2.11.0 |
+| `kubectl` | 1.10.5 |
+| Google Cloud SDK | 220.0.0 |
 
 ## Add resource type to pipeline
 
